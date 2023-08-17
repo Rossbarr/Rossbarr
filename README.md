@@ -1,3 +1,5 @@
+Last updated 2021
+
 Hello, I’m Barrett Ross or @Rossbarr (he/his/him).
 
 I've been programming since 2018. I started in college at Michigan State University. I first used Python to create physics models for my classes and analyze data for research. 
